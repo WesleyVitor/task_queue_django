@@ -1,0 +1,4 @@
+venv/
+sample.xlsx
+db.sqlite3
+__pycache__/
